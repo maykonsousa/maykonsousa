@@ -13,6 +13,5 @@ Sempre fui apaixonado por tecnologia mas as oportunidades de carreira sempre me 
 
 
 ### ⚙️ &nbsp; Git Analytics
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maykonsousapb&theme=dark&show_icons=true" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maykonsousa)](https://github.com/anuraghazra/github-readme-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykonsousapb&theme=dark&layout=compact" width="410" /></p>
